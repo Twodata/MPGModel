@@ -1,0 +1,12 @@
+name: MPGModel
+title: MPGModel
+username:
+account: twodata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 247661
+bundleId: 1130008
+url: https://twodata.shinyapps.io/MPGModel/
+when: 1513086127.23768
+asMultiple: FALSE
+asStatic: FALSE
